@@ -9,7 +9,7 @@
   "author": "Alexandre Sousa",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.3",
     "express": "^4.20.0",
     "mongoose": "^5.13.20"
   }
